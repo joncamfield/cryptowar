@@ -7,6 +7,6 @@ As we continuously debate "responsible encryption" here is a long scroll of pull
 
 *This builds off of my 2017 [blog post](https://joncamfield.com/blog/2017.10/we-have-always-been-war-crypto) capturing historic quotes and notes.*
 
-* [1995 - 2000](1995-2000.md) - Export regulations and the Clipper chip
+* [1995 - 2000](1995-2000.md) - PGP, export regulations and the Clipper chip
 * [2001- 2010](2001-2010.md) - post-9/11 Security discussions
 * [2011 - 2020](2011-2020.md) - Crypto in the era of Obama and Trump, San Bernadino and the corporate sector goes e2e
