@@ -1,4 +1,4 @@
-# cryptowar
+# eternal cryptowar
 
 
 Great quotes from the never-ending cryptowars - Additional historic quotes welcomed - please send quotes and links to [cryptowar@joncamfield.com](mailto:cryptowar@joncamfield.com)!
